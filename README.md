@@ -1,4 +1,4 @@
-![Research Planner](https://github.com/user-attachments/assets/08cc6b47-a7f5-4b09-ad13-91c056f8a7c6)
+![Research Planner](https://github.com/user-attachments/assets/1faa9396-394a-4035-b766-71bdcbe132ae)
 
 > Assistive research planning and management.
 

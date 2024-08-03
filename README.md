@@ -16,6 +16,8 @@ Effective collaboration and communication within research teams are also key foc
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Research Generator](https://chatgpt.com/g/g-uxHzF0xR5-research-generator)
+<br>
+[Resarch Automation](https://github.com/sourceduty/Research_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

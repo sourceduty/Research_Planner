@@ -18,6 +18,8 @@ Effective collaboration and communication within research teams are also key foc
 [Research Generator](https://chatgpt.com/g/g-uxHzF0xR5-research-generator)
 <br>
 [Resarch Automation](https://github.com/sourceduty/Research_Automation)
+<br>
+[Data Generator](https://github.com/sourceduty/Data_Generator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
